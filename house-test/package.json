@@ -1,6 +1,6 @@
 {
   "name": "58-house-rn-unit",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wpina/rn.git"
+    "url": "git@github.com:wpina/rn.git"
   },
   "keywords": [
     "58-house-rn-unit"
