@@ -1,0 +1,101 @@
+{
+	"code": 0,
+	"message": "success",
+	"data": [{
+		"cateId": 8,
+		"title": "\u6c49\u53e3CBD\u72ec\u7acb\u536b\u6d74\u516c\u5bd3\uff08\u8fd1\u6c49\u53e3\u706b\u8f66\u7ad9\uff09\u5305\u7f51\u7269\u4e1a\u5065\u8eab \u76f4\u79df\u6574\u79df",
+		"img": "http:\/\/pic8.58cdn.com.cn\/anjuke_58\/1645bfe9972aecb32a2184c4b166d4f3?w=160&h=120&crop=1",
+		"cateName": "\u79df\u623f",
+		"subtitle": "1\u5ba4 | 30\u33a1 | \u738b\u5bb6\u58a9CBD",
+		"address": "\u8ddd\u79bb2\u53f7\u7ebf\u6c49\u53e3\u706b\u8f66\u7ad9\u5730\u94c1\u7ad91067\u7c73",
+		"price": "1800",
+		"unit": "\u5143\/\u6708",
+		"isApart": 0,
+		"infoId": 35500422284349,
+		"character": "\u62bc\u4e00\u4ed8\u4e00|\u7cbe\u88c5\u4fee|\u914d\u5957\u9f50\u5168"
+	}, {
+		"cateId": 8,
+		"title": "\u6052\u5927\u534e\u5e9c 2\u5ba41\u53851\u536b",
+		"img": "http:\/\/pic8.58cdn.com.cn\/dwater\/fang\/big\/n_v25f4cf0045cc8440083134a2b07953ff7.jpg?w=160&h=120&crop=1",
+		"cateName": "\u79df\u623f",
+		"subtitle": "2\u5ba4 | 60\u33a1 | \u4e1c\u575d",
+		"address": "\u8ddd\u79bb14\u53f7\u7ebf\u5c06\u53f0\u5730\u94c1\u7ad93648\u7c73",
+		"price": "4500",
+		"unit": "\u5143\/\u6708",
+		"isApart": 0,
+		"infoId": 34115083559337,
+		"character": ""
+	}, {
+		"cateId": 8,
+		"title": "\u9152\u4ed9\u6865\u90bb\u8fd1\u4e1c\u98ce\u5317\u6865\u5730\u94c1\u7ad9\uff0c\u65b0\u534e\u79d1\u6280\u5927\u53a6898\u9644\u8fd1\u4e8c\u5c45\u53ef\u505a\u5bbf\u820d",
+		"img": "http:\/\/pic1.58cdn.com.cn\/anjuke_58\/7042aa8adebf1c8b82c444cadaa413b0?w=160&h=120&crop=1",
+		"cateName": "\u79df\u623f",
+		"subtitle": "2\u5ba4 | 60\u33a1 | \u9152\u4ed9\u6865",
+		"address": "\u8ddd\u79bb14\u53f7\u7ebf\u4e1c\u98ce\u5317\u6865\u5730\u94c1\u7ad9793\u7c73",
+		"price": "4200",
+		"unit": "\u5143\/\u6708",
+		"isApart": 0,
+		"infoId": 34059735365836,
+		"character": ""
+	}, {
+		"cateId": 8,
+		"title": "\u53cc\u4e95\u56fd\u8d38\u767e\u5b50\u6e7e\u91d1\u6cf0\u5148\u950b\u4e09\u5c45\u5ba4\u53cc\u536b\u8c6a\u534e\u88c5\u4fee\u5357\u5317\u901a\u900f\u771f\u5b9e\u623f\u6e90",
+		"img": "http:\/\/pic8.58cdn.com.cn\/anjuke_58\/34da4f6dd03ef1cdb682adb5da46fb39?w=160&h=120&crop=1",
+		"cateName": "\u79df\u623f",
+		"subtitle": "3\u5ba4 | 158\u33a1 | \u767e\u5b50\u6e7e",
+		"address": "\u8ddd\u79bb7\u53f7\u7ebf\u767e\u5b50\u6e7e\u5730\u94c1\u7ad9257\u7c73",
+		"price": "16000",
+		"unit": "\u5143\/\u6708",
+		"isApart": 0,
+		"infoId": 33926856409387,
+		"character": ""
+	}, {
+		"cateId": 8,
+		"title": "\u5929\u5b81\u5bfa\u897f\u91cc 2\u5ba41\u53851\u536b",
+		"img": "http:\/\/pic3.58cdn.com.cn\/dwater\/fang\/big\/n_v2336f86bd527e442f8682c252f33d2e9a.jpg?w=160&h=120&crop=1",
+		"cateName": "\u79df\u623f",
+		"subtitle": "2\u5ba4 | 75\u33a1 | \u5929\u5b81\u5bfa",
+		"address": "\u8ddd\u79bb7\u53f7\u7ebf\u8fbe\u5b98\u8425\u5730\u94c1\u7ad9864\u7c73",
+		"price": "5300",
+		"unit": "\u5143\/\u6708",
+		"isApart": 0,
+		"infoId": 33464440586945,
+		"character": ""
+	}, {
+		"cateId": 8,
+		"title": "\u5730\u94c14\u53f7\u7ebf\u65b0\u5bab\u7ad9\u8bda\u82d1\u5357\u91cc\u5c0f\u533a\u6b63\u89c4\u4e00\u5c45\u5ba4",
+		"img": "http:\/\/pic7.58cdn.com.cn\/anjuke_58\/7e03f89a2a5f948b975165c025cf4345?w=160&h=120&crop=1",
+		"cateName": "\u79df\u623f",
+		"subtitle": "1\u5ba4 | 62\u33a1 | \u548c\u4e49",
+		"address": "\u8ddd\u79bb\u5927\u5174\u7ebf\u65b0\u5bab\u5730\u94c1\u7ad91191\u7c73",
+		"price": "3200",
+		"unit": "\u5143\/\u6708",
+		"isApart": 0,
+		"infoId": 33462212510645,
+		"character": ""
+	}, {
+		"cateId": 8,
+		"title": "\u9996\u7ecf\u8d38\u4e2d\u88571\u53f7\u9662 1\u5ba41\u53851\u536b",
+		"img": "http:\/\/pic2.58cdn.com.cn\/dwater\/fang\/big\/n_v2ec85fe2611ff4345992258d5abe5b44e.jpg?w=160&h=120&crop=1",
+		"cateName": "\u79df\u623f",
+		"subtitle": "1\u5ba4 | 36\u33a1 | \u7389\u6cc9\u8425",
+		"address": "\u8ddd\u79bb10\u53f7\u7ebf\u9996\u7ecf\u8d38\u5730\u94c1\u7ad9575\u7c73",
+		"price": "2650",
+		"unit": "\u5143\/\u6708",
+		"isApart": 0,
+		"infoId": 33421474988469,
+		"character": "电放费|换个|方法|潍坊润房|分公司为|我"
+	}, {
+		"cateId": 8,
+		"title": "\u5ef6\u9759\u897f\u91cc-13\u53f7\u697c 1\u5ba40\u53851\u536b",
+		"img": "http:\/\/pic7.58cdn.com.cn\/p1\/big\/n_v21c0c34f779f2459f9bb2dc668dce8bbc.jpg?w=160&h=120&crop=1",
+		"cateName": "\u79df\u623f",
+		"subtitle": "1\u5ba4 | 26\u33a1 | \u7ea2\u5e99",
+		"address": "",
+		"price": "3600",
+		"unit": "\u5143\/\u6708",
+		"isApart": 0,
+		"infoId": 31229363855556,
+		"character": "f等等|sddsds|等等|回复率|dssdsd|sddsesadf\\|sddssd|sdsdds|a"
+	}]
+}
